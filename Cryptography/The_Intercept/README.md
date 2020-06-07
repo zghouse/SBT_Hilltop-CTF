@@ -1,0 +1,1 @@
+The raid at location seven has given us the encrypted as well as decrypted message.  Can you use this information to find the cipher key? It will help us decrypt all other messages we have intercepted so far.
