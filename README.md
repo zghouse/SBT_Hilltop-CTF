@@ -4,14 +4,15 @@ Challenges and write-ups I designed while I worked with Security Blue Team as a 
 
 -----
 
-- Steganography
-  - Jorji Costava
+- Cryptography
+  - The Intercept
 
 - Forensics
   - XXXX
 
 - Miscellaneous
   - What a Mess!
+  
+- Steganography
+  - Jorji Costava
 
-- Cryptography
-  - The Intercept
